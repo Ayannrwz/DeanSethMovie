@@ -50,9 +50,7 @@ const CancellationPath = () => {
             justifyContent: "center",
           }}
         >
-          <CancelContainer style={{ alignItems: "center" }}>
             <TicketTable />
-          </CancelContainer>
         </div>
       </CancelWallpaper>
     </Container>
